@@ -43,6 +43,18 @@ Please see the `installation section <https://codeigniter.com/user_guide/install
 of the CodeIgniter User Guide.
 
 *******
+Account
+*******
+
+Admin
+Email: ihsan@gmail.com
+Password: ihsan123
+
+Member
+Email: user@mail.com
+Password: user1234
+
+*******
 License
 *******
 
